@@ -2,9 +2,9 @@
 
 git config --global user.name "ASxx" 
 git config --global user.email "123456789@qq.com"
+// hh
 
 ´´½¨ git ²Ö¿â:
-
 mkdir wap
 cd wap
 git init
