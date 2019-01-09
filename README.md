@@ -1,4 +1,4 @@
-t 全局设置:
+全局设置:
 
 git config --global user.name "ASxx" 
 git config --global user.email "123456789@qq.com"
